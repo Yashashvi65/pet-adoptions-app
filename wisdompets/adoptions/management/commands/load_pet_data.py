@@ -8,7 +8,7 @@ from pytz import UTC
 
 
 DATETIME_FORMAT = '%m/%d/%Y %H:%M'
-
+ 
 VACCINES_NAMES = [
     'Canine Parvo',
     'Canine Distemper',
